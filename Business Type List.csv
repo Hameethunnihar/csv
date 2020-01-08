@@ -1,0 +1,9 @@
+Id,Code,Description,Is Active
+1,FIBR,Fiber,Yes
+2,NATURAL,Natrual Resources,Yes
+3,PNL,Panel,Yes
+4,PLM,Palm,Yes
+5,PROP,Property,Yes
+6,PLP,Pulp,Yes
+7,SERV,Services,Yes
+8,TRD,Trading,Yes

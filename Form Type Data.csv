@@ -1,0 +1,61 @@
+Id,Form Group Code,Form Group Name,Form Type Code,Form Type Name,Active
+1,CCM,CCM Request,FND_REQ_RCA_OPS,Fund Request (RCA to Ops)-Test,Yes
+2,CCM,CCM Request,FND_REQ_OPS_RCA,Fund Request (Ops to RCA)-Test,Yes
+3,LCL_BANK_ACCT_TEST,Bank Account Test,BNK_WHT_LST_TEST,Bank White List Test,Yes
+4,LCL_BANK_ACCT_TEST,Bank Account Test,BNK_SIG_NW_CHNG_TEST,Bank Signatories (New/Change) Test,Yes
+"16,385",LCL_BA,Bank Accounts,BWL,Bank White List,Yes
+"16,386",LCL_BA,Bank Accounts,OBA_HORO,Opening/Closing Bank Account (HO/RO),Yes
+"16,387",LCL_BA,Bank Accounts,BS,Bank Signatories (New/Change),Yes
+"16,388",LCL_CCP,Change of Company Particulars,REG,"Registration of New Companies, M&A, Liquidation of Companies",Yes
+"16,389",LCL_CCP,Change of Company Particulars,CD,Change of Company Details,Yes
+"16,390",LCL_CCP,Change of Company Particulars,CNBN,Change of Company Name & Business Nature,Yes
+"16,391",LCL_CCP,Change of Company Particulars,CSH,Changes In Shareholdings,Yes
+"16,392",LCL_CCP,Change of Company Particulars,BOD,Creation/Change of BOD and BOC Panel List,Yes
+"16,393",LCL_CRA,Contract Review and Approval,AA,Appointment of Auditors,Yes
+"16,394",LCL_CRA,Contract Review and Approval,ALC,Appointment of Legal Consultants,Yes
+"16,395",LCL_CRA,Contract Review and Approval,ASC,Appointment of Suppliers/Contractors,Yes
+"16,396",LCL_CRA,Contract Review and Approval,APOAO,Appointment of POA - Operational,Yes
+"16,397",LCL_CRA,Contract Review and Approval,APOAN,Appointment of POA - Non Operational,Yes
+"16,398",LCL_CRA,Contract Review and Approval,BBR,Bank Borrowing/Refinancing,Yes
+"16,399",LCL_CRA,Contract Review and Approval,BFL,Bank Facilities - Leasing,Yes
+"16,400",LCL_CRA,Contract Review and Approval,BCL,Basic Corporate License,Yes
+"16,401",LCL_CRA,Contract Review and Approval,BKPM,BKPM,Yes
+"16,402",LCL_CRA,Contract Review and Approval,CG,Corporate Guarantees,Yes
+"16,403",LCL_CRA,Contract Review and Approval,JVJO,JV/JO/Corporate Actions/Correspondent,Yes
+"16,404",LCL_CRA,Contract Review and Approval,SFA,Sales of Fixed Assets,Yes
+"16,405",LCL_CRA,Contract Review and Approval,SSM,Sales of Scrap Materials,Yes
+"16,406",LCL_CRA,Contract Review and Approval,FC,Fiber Contract,Yes
+"16,407",LCL_CRA,Contract Review and Approval,IBCO,Internal Business Contract - Operational,Yes
+"16,408",LCL_CRA,Contract Review and Approval,IBCN,Internal Business Contract - Non Operational,Yes
+"16,412",LCL_CRA,Contract Review and Approval,EBCBL5,External Business Contract - Budgeted ( <= IDR 5 Bio),Yes
+"16,413",LCL_CRA,Contract Review and Approval,EBCBM5,External Business Contract - Budgeted ( > IDR 5 Bio),Yes
+"16,414",LCL_CRA,Contract Review and Approval,EBCUNSU,External Business Contract - Unbudgeted/New Set Up,Yes
+"16,415",CCM,CCM Request,FROPS,Fund Request (RCA to Ops),Yes
+"16,416",CCM,CCM Request,FRRCA,Fund Request (Off to RCA),Yes
+"16,417",CCM,CCM Request,IFTWR,Internal Fund Transfer Within Region (Inter PT),Yes
+"16,418",CCM,CCM Request,IFTWBG,Internal Fund Transfer Within BG (Inter Region),Yes
+"16,419",CCM,CCM Request,IFTOBG,Internal Fund Transfer Outside BG (Within Group),Yes
+"16,421",LCL_CRA,Contract Review and Approval,BFLL5,Bank Facilities - Leasing ( <= IDR 5 Bio),Yes
+"16,422",LCL_CRA,Contract Review and Approval,BFLM5,Bank Facilities - Leasing ( > IDR 5 Bio),Yes
+"16,423",LCL_BA,Bank Accounts,OBA_KBN,Opening/Closing Bank Account (Kebun),Yes
+"32,769",LCL_CRA,Contract Review and Approval,LF,Leasing Facilities,Yes
+"32,770",LCL_CRA,Contract Review and Approval,EBC,External Business Contract,Yes
+"65,537",LCL_CRA,Contract Review and Approval,BBRLF,Bank Borrowing/Refinancing/Leasing Facilities,Yes
+"65,538",CCM,CCM Request,IFTR,Internal Fund Transfer Within Region (Inter PT)xx,Yes
+"65,539",null,null,Contract Review and Approval,IBCO,Yes
+"65,540",null,null,Bank Accounts,OBA_HORO,Yes
+"65,541",null,null,Change of Company Particulars,BOD,Yes
+"65,543",CCM,CCM Request,FROFO,Fund Request (Offshore to Ops),Yes
+"65,546",LCL_BA,Bank Accounts,OCBA,Opening/Closing Bank Account,Yes
+"65,547",LCL_CCP,Change of Company Particulars,CCD_BOD,"Change of Company Details (Name, Shareholdings, Business Nature, BOD & BOC Panel list)",Yes
+"65,549",LCL_CRA,Contract Review and Approval,APOA,Appointment of POA - Operational & Non-Operational,Yes
+"65,550",LCL_CRA,Contract Review and Approval,IEBC,Internal & External Business Contract,Yes
+"65,551",LCL_BA,Bank Accounts,OBA_JO,Opening/Closing Bank Account (JO),Yes
+"65,552",LCL_LOS,Legal Operational Site,LOS,Legal Operational Site,Yes
+"65,553",LCL_LOS,Legal Operational Site,STD,Standard,Yes
+"65,554",LCL_LOS,Legal Operational Site,NONSTD,Non-Standard,Yes
+"65,555",LCL_LOS,Legal Operational Site,STNDRD,Standard,Yes
+"65,556",LCL_LOS,Legal Operational Site,NSTNDRD,Non-Standard,Yes
+"81,921",LCL_LOS,Legal Operational Site,ADV,Advance,Yes
+"81,922",null,null,null,null,Yes
+"114,689",LCL_OTHER,Other,AWO,Asset Write off,Yes
